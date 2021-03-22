@@ -1,0 +1,5 @@
+Who wrote this quiz?,Max,James,John,Will,1
+How old am I?,10,18,19,20,4
+Is this a quiz?,Yes,No,Maybe,Kinda,1
+What devices do I game on?,PC and Switch,PC and Xbox,PC and PS4,Xbox and Switch,1
+What is the common phrase used to test a new program?,Test,Does this work,Hello world,Output,3 
